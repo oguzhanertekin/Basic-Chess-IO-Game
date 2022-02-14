@@ -1,0 +1,12 @@
+move p1 a3
+move P4 d6
+move n1 a2
+move B1 e6
+print
+showmoves B1
+showmoves r1
+move p3 c3
+move QU d7
+print
+initialize
+exit
